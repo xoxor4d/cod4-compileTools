@@ -1,0 +1,14 @@
+tree,
+mapname,
+developer,False
+developerscript,False
+cheats,False
+tab,1
+chkCustomCommandLine,False
+txtCustomCommandLine,
+maincolor,5
+mainopacity,0.95
+moveToUsermaps,True
+consoleOnStart,True
+disableAnimations,False
+animationSpeed,5
