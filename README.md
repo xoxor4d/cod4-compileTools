@@ -1,7 +1,6 @@
 # cod4-compileTools
 Custom CoD4-CompileTools build with .NET Framework 4.6.1
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+---
 
 Using the stock CompileTools as a base with improvements to UI, 
 Settings and some other miscellaneous addons.
@@ -25,3 +24,8 @@ Settings and some other miscellaneous addons.
   - Set CompileTools accent color
   - Set CompileTools opacity
   - Set CompileTools animation speed
+  
+
+This tool is also hosted on: https://www.bouncepatch.com/cod4compiletools  
+
+![alt tag](https://i.imgur.com/lkhaNC2.jpg "Main") ![alt tag](https://i.imgur.com/rmNXdsg.jpg "Settings")
