@@ -26,6 +26,6 @@ Settings and some other miscellaneous addons.
   - Set CompileTools animation speed
   
 
-This tool is also hosted on: https://www.bouncepatch.com/cod4compiletools  
+This tool is also hosted on: https://xoxor4d.github.io/projects/cod4-compileTools/
 
 ![alt tag](https://i.imgur.com/lkhaNC2.jpg "Main") ![alt tag](https://i.imgur.com/rmNXdsg.jpg "Settings")
