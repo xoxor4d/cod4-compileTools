@@ -1,5 +1,8 @@
-# cod4-compileTools
-Custom CoD4-CompileTools build with .NET Framework 4.6.1
+# cod4-compileTools - Custom CoD4-CompileTools
+
+This tool is no longer supported and thus archived.  
+A newer, maintained version can be found here: https://github.com/xoxor4d/cod4-compileToolsXaml
+
 ---
 
 Using the stock CompileTools as a base with improvements to UI, 
